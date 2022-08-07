@@ -1,0 +1,19 @@
+{
+    "name": "atena/design-patterns",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Atena\\DesignPatterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "atenahadavi",
+            "email": "atenahadavi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
